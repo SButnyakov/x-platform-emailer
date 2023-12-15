@@ -1,1 +1,1 @@
-# x-platform
+# x-platform-emailer
